@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>
 
 ## 
-
+<!--
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muunioi&show_icons=true&theme=yeblu)
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muunioi&layout=compact)](https://github.com/muunioi/github-readme-stats)
 &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhyoo7095)](https://solved.ac/mhyoo7095/)
-
+-->
 </div>
